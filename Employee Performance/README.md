@@ -73,7 +73,7 @@ This project aims to analyze employee performance and churn using visual analyti
 
 For questions, feedback, or collaboration opportunities, feel free to connect via:
 
-- **Email:** [karthik130223@gmail.com](mailto\:your.email@example.com)
+- **Email:** [karthik130223@gmail.com](mailto\:karthik130223@gmail.com)
 - **LinkedIn:** [Karthik S](https://www.linkedin.com/in/karthik-s-875a88223/)
 
 ---
