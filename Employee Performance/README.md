@@ -2,7 +2,8 @@
 
 This Power BI dashboard provides comprehensive insights into employee performance, productivity, and churn risk. It leverages key HR metrics to help organizations identify trends, improve retention strategies, and enhance workforce performance.
 
-## 👁️ preview
+## 👁️ Preview
+![Dashboard](misc/draft.mp4)
 
 
 ## 📊 Project Overview
